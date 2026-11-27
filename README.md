@@ -1,2 +1,5 @@
 # link-sandbox
-Lightweight SQL utilities and helpers (link-sandbox)
+
+Lightweight `SQL` utilities maintained by @a57raldev.
+
+- Focus: APIs, queues, and the retries that make them survive.
